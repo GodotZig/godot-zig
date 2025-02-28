@@ -16,7 +16,7 @@ see [Examples](https://github.com/godot-zig/godot-zig-examples) for reference.
 
 ## Code Sample:
 
-```
+```zig
 const std = @import("std");
 const Godot = @import("godot");
 const Vec2 = Godot.Vector2;
